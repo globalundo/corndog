@@ -1,4 +1,4 @@
-# corndog
+# corndog :corn::dog:
 multicorn wrapper for datadog
 
 ![multiCORN](https://tuulos.github.io/sf-python-meetup-sep-2013/multicorn-logo.png "multiCORN")![dataDOG](https://datadog-prod.imgix.net/img/dd_logo_70x75.png "dataDOG")
