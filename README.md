@@ -1,6 +1,10 @@
 # corndog
 multicorn wrapper for datadog
 
+![multiCORN](https://tuulos.github.io/sf-python-meetup-sep-2013/multicorn-logo.png "multiCORN")![dataDOG](https://datadog-prod.imgix.net/img/dd_logo_70x75.png "dataDOG")
+
+
+
 # Install (essentials)
 ```bash
 sudo apt-get install python-dev pgxnclient
